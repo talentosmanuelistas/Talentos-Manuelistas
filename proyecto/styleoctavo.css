@@ -1,0 +1,13 @@
+body{
+
+    background-image:url(estrellas.jpg) ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style:dotted;
+    border-radius: 4%;
+    border-width: 10px;
+    border-color: rgb(117, 191, 234);
+    
